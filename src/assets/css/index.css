@@ -1,0 +1,53 @@
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: node;
+}
+input,
+textarea{
+  outline: none;
+  border: 0px;
+}
+ul li {
+	list-style-type: none;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+th,
+td,
+p,
+blockquote,
+pre,
+form,
+fieldset,
+legend,
+input,
+button,
+textarea,
+hr,
+b,
+i,
+em,
+span {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+img {
+  border: 0px;
+  text-decoration: none;
+}
